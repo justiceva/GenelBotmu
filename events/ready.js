@@ -12,7 +12,7 @@ module.exports = {
       "👮🏽‍♂️ | Captcha sistemi ile sunucunu güvene al!",
       "🌟 | Botlist sistemi ile sunucunu kolaylaştır!",
       "💙 | Moderasyon komutları ile sunucunu çok daha pratik yap!",
-      "➕ | Yapay zeka kayıt sistemi ile sunucuna bir renk kat!"
+      "➕ | Altyapı Videosu İçin: youtube.com/@WraithsDev"
     ]
     
     setInterval(async() => {
