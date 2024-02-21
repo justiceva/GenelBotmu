@@ -7,7 +7,7 @@ module.exports = {
 
     run: async(client, guild) => {
         
-        const kanal = "1066724841341849650"; 
+        const kanal = "logkanagir"; 
 
         const owner = await client.users.fetch(guild.ownerId)
         const embed = new EmbedBuilder()
