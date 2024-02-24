@@ -422,7 +422,7 @@ if(interaction.customId === 'giriscikis'){
           .addComponents(
               new Discord.ButtonBuilder()
               .setStyle("Secondary")
-              //.setEmoji("1039607060775571476")
+              .setEmoji("1178711633682497599")
               .setLabel("Moderasyon")
               .setDisabled(true)
               .setCustomId("moderasyon_"+interaction.user.id),
@@ -660,7 +660,7 @@ if(interaction.customId === 'giriscikis'){
           .addComponents(
             new Discord.ButtonBuilder()
             .setStyle("Secondary")
-            //.setEmoji("1039607060775571476")
+            .setEmoji("1178711633682497599")
             .setLabel("Moderasyon")
             .setCustomId("moderasyon_"+interaction.user.id),
             new Discord.ButtonBuilder()
@@ -724,7 +724,7 @@ if(interaction.customId === 'giriscikis'){
           .addComponents(
             new Discord.ButtonBuilder()
             .setStyle("Secondary")
-            //.setEmoji("1039607060775571476")
+            .setEmoji("1178711633682497599")
             .setLabel("Moderasyon")
             .setCustomId("moderasyon_"+interaction.user.id),
             new Discord.ButtonBuilder()
@@ -870,7 +870,7 @@ if(interaction.customId === 'giriscikis'){
       new Discord.ButtonBuilder()
       .setLabel("Moderasyon")
       .setStyle(Discord.ButtonStyle.Secondary)
-      //.setEmoji('1039607060775571476')
+      .setEmoji('1178711633682497599')
       .setCustomId("moderasyon_"+interaction.user.id),
       new Discord.ButtonBuilder()
       .setLabel("Kayıt")
@@ -1057,7 +1057,7 @@ if(interaction.customId === 'giriscikis'){
       new Discord.ButtonBuilder()
       .setLabel("Moderasyon")
       .setStyle(Discord.ButtonStyle.Secondary)
-      //.setEmoji('1039607060775571476')
+      .setEmoji('1178711633682497599')
       .setCustomId("moderasyon_"+interaction.user.id),
       new Discord.ButtonBuilder()
       .setLabel("Kayıt")
