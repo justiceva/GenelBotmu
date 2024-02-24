@@ -472,7 +472,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
           const embed = new EmbedBuilder()
-          .setTitle("> <:mod:1039607060775571476> |  - Moderasyon Menüsü!")
+          .setTitle("> Moderasyon Menüsü!")
           .addFields(
         { name: "**> </ban-list:1039964202003079243>**", value: `>  **Banlı kullanıcıları gösterir!**`, inline: true },
         { name: "**> </ban:1039964202003079244>**", value: `>  **Bir üyeyi yasaklarsın!**`, inline: true  },
@@ -552,7 +552,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
       const embed = new Discord.EmbedBuilder()
-      .setTitle("> <:mod:1039607060775571476> |  - Moderasyon 2 Menüsü!")
+      .setTitle("> Moderasyon 2 Menüsü!")
       .addFields(
         { name: "**>  </rol-oluştur:1039964202149879913>**", value: `>  **Rol oluşturursun!**`, inline: true  },
         { name: "**>  </rol-ver:1039964202149879914>**", value: `>  **Rol verirsin!**`, inline: true  },
@@ -629,7 +629,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
       const embed = new Discord.EmbedBuilder()
-      .setTitle("> <:mod:1039607060775571476> |  - Moderasyon Menüsü!")
+      .setTitle("> Moderasyon Menüsü!")
       .addFields(
         { name: "**>  </ban-list:1039964202003079243>**", value: `>  **Banlı kullanıcıları gösterir!**`, inline: true },
         { name: "**>  </ban:1039964202003079244>**", value: `>  **Bir üyeyi yasaklarsın!**`, inline: true  },
@@ -709,7 +709,7 @@ if(interaction.customId === 'giriscikis'){
             .setCustomId(".clearMessageButton_"+interaction.user.id)
           )
           const embed = new EmbedBuilder()
-          .setTitle("> <:ek:1039607052340834354> |  - Kayıt Menüsü!")
+          .setTitle("> Kayıt Menüsü!")
           .addFields(
             { name: "**>  </kayıt-sistemi:1063887700786159709>**", value: `>  **Kayıt sistemini ayarlarsın!**`, inline: true },
           { name: "**>  </kayıt-sistemi-kapat:1063887700786159708>**", value: `>  **Kayıt sistemini kapatırsın**`, inline: true },
@@ -772,7 +772,7 @@ if(interaction.customId === 'giriscikis'){
             .setCustomId(".clearMessageButton_"+interaction.user.id)
           )
           const embed = new EmbedBuilder()
-          .setTitle("> <:member:1039607059357913098> |  - Kullanıcı Menüsü!")
+          .setTitle("> Kullanıcı Menüsü!")
           .addFields(
             { name: "**>  </avatar:1039964202003079242>**", value: `>  **Avatarına bakarsın!**`, inline: true },
             { name: "**>  </afk:1039964202003079241>**", value: `>  **Afk olursun!**`, inline: true  },
@@ -858,7 +858,7 @@ if(interaction.customId === 'giriscikis'){
               if (!interaction.isButton()) return;
         if (interaction.customId == "korumasystem_"+interaction.user.id) {
           const embed = new Discord.EmbedBuilder()
-          .setTitle("> <:koruma:1044325545925672976> |  - Koruma Menüsü!")
+          .setTitle("> Koruma Menüsü!")
           .addFields(
             { name: "**>  </hesap-koruma:1069205098888171560>**", value: `>  **Hesap koruma sistemini açarsın!**`, inline: true },
             { name: "**>  </koruma-log:1069205098888171561>**", value: `>  **Koruma logunu ayarlarsın!**`, inline: true }
@@ -973,7 +973,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
           const embed = new EmbedBuilder()
-          .setTitle("> <:bot:1039607042291269703> |  - Botlist Menüsü!")
+          .setTitle("> Botlist Menüsü!")
           .addFields(
             { name: "**>  </botlist-ayarla:1039964202003079245>**", value: `>  **Botlist sistemini ayarlarsın!**`, inline: true }
           )
@@ -1034,7 +1034,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
       const embed = new Discord.EmbedBuilder()
-      .setTitle("> <:ses:1041739960493019197> |  - Özel Oda Menüsü!")
+      .setTitle("> Özel Oda Menüsü!")
       .addFields(
         { name: "**>  </özel-oda-sistemi:1041738859572105318>**", value: `>  **Özel Oda Sistemini ayarlarsın!**`, inline: true },
         { name: "**>  </özel-oda-sil:1041738859572105317>**", value: `>  **Özel Odanı silersin!**`, inline: true },
@@ -1160,7 +1160,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
           const embed = new EmbedBuilder()
-          .setTitle("> <:yenilik:1044325577064190033> |  - Ticket Menüsü!")
+          .setTitle("> Ticket Menüsü!")
           .addFields(
             { name: "**>  </destek-sistemi:1065718561311567995>**", value: `>  **Destek sistemini ayarlarsın!**`, inline: true },
             { name: "**>  </destek-sistemi-sıfırla:1065718561311567994>**", value: `>  **Destek sistemini sıfırlarsın!.**`, inline: true  }
@@ -1223,7 +1223,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
           const embed = new EmbedBuilder()
-          .setTitle("> <:roket:1044325558563123312> |  - Level Menüsü!")
+          .setTitle("> Level Menüsü!")
           .addFields(
             { name: "**>  </level-sistemi:1053000987285127254>**", value: `>  **Level sistemini açarsın!**`, inline: true },
             { name: "**>  </level-log ayarla:1053000987285127252>**", value: `>  **Level logu ayarlarsın!**`, inline: true },
@@ -1291,7 +1291,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
           const embed = new EmbedBuilder()
-          .setTitle("> <:roket:1044325558563123312> |  - Captcha Menüsü!")
+          .setTitle("> Captcha Menüsü!")
           .addFields(
             { name: "**>  </captcha-sistemi:1064125585166708918>**", value: `>  **Captcha sistemini açarsın!**`, inline: true },
             { name: "**>  </captcha-görüntüle:1064125585166708917>**", value: `>  **Captcha istatistiklerini görüntülersin!**`, inline: true },
@@ -1381,7 +1381,6 @@ if(interaction.customId === 'giriscikis'){
             const dmb = deleteMessageButton(interaction, {
               label: "Mesajı sil.",
               style: Discord.ButtonStyle.Secondary,
-              emoji: "<:sil:1039607063443161158>"
         });
             let muterol = db.fetch(`rol_${interaction.guild.id}`)
             let ucanEssek = interaction.guild.members.cache.get(kullanıcı)
@@ -1411,7 +1410,6 @@ if(interaction.customId === 'giriscikis'){
             const dmb = deleteMessageButton(interaction, {
               label: "Mesajı sil.",
               style: Discord.ButtonStyle.Secondary,
-              emoji: "<:sil:1039607063443161158>"
         });
             const embed = new EmbedBuilder()
             .setDescription(`:white_check_mark: | Başarılı bir şekilde mute iptal edildi.
@@ -1567,7 +1565,7 @@ if(interaction.customId === 'giriscikis'){
               const embed = new EmbedBuilder()
               .setThumbnail(interaction.client.user.displayAvatarURL({ dynamic: true }))
               .addFields(
-                { name: '<:dev:1039607045613166652> Bot Sahibi', value: `**aras#0001**`, inline: true },
+                { name: 'Bot Sahibi', value: `**Ahmet**`, inline: true },
                 { name: "👥 Kullanıcılar", value: `${members}`, inline: true },
                 { name: "🧩 Sunucular", value: `${servers}`, inline: true },
                 { name: "📼 Bellek Kullanımı", value: `${(process.memoryUsage().heapUsed / 1024 / 512).toFixed(2)}MB`, inline: true },
