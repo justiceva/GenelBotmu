@@ -467,7 +467,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("ileri_"+interaction.user.id),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -547,7 +547,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("ileri"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -624,7 +624,7 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("ileri_"+interaction.user.id),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -699,12 +699,12 @@ if(interaction.customId === 'giriscikis'){
             .setCustomId("anasayfa_"+interaction.user.id),
             new Discord.ButtonBuilder()
             .setStyle(Discord.ButtonStyle.Secondary)
-            .setLabel("ㅤㅤㅤ")
+            .setLabel("ㅤㅤㅤBoş")
             .setDisabled(true)
             .setCustomId("süsbutton3"),
             new Discord.ButtonBuilder()
             
-            .setLabel(" ")
+            .setLabel("Boş")
             .setStyle(Discord.ButtonStyle.Secondary)
             .setCustomId(".clearMessageButton_"+interaction.user.id)
           )
@@ -762,12 +762,12 @@ if(interaction.customId === 'giriscikis'){
             .setCustomId("anasayfa_"+interaction.user.id),
             new Discord.ButtonBuilder()
             .setStyle(Discord.ButtonStyle.Secondary)
-            .setLabel("ㅤㅤㅤ")
+            .setLabel("Boşㅤㅤㅤ")
             .setDisabled(true)
             .setCustomId("süsbutton3"),
             new Discord.ButtonBuilder()
             
-            .setLabel(" ")
+            .setLabel("Boş")
             .setStyle(Discord.ButtonStyle.Secondary)
             .setCustomId(".clearMessageButton_"+interaction.user.id)
           )
@@ -837,12 +837,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa_"+interaction.user.id),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤ")
+        .setLabel("Boşㅤ")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -897,7 +897,7 @@ if(interaction.customId === 'giriscikis'){
         .setDisabled(true),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤㅤㅤ")
+        .setLabel("ㅤㅤㅤBoş")
         .setDisabled(true)
         .setCustomId("süsbutton2"),
         new Discord.ButtonBuilder()
@@ -907,12 +907,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa_"+interaction.user.id),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤㅤㅤ")
+        .setLabel("ㅤㅤㅤBoş")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -1024,12 +1024,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa_"+interaction.user.id),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤ")
+        .setLabel("Boşㅤ")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -1094,12 +1094,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa"),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤㅤ")
+        .setLabel("Boşㅤㅤ")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -1150,12 +1150,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa_"+interaction.user.id),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤ")
+        .setLabel("ㅤBoş")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -1213,12 +1213,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa_"+interaction.user.id),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤ")
+        .setLabel("Boşㅤ")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -1281,12 +1281,12 @@ if(interaction.customId === 'giriscikis'){
         .setCustomId("anasayfa_"+interaction.user.id),
         new Discord.ButtonBuilder()
         .setStyle(Discord.ButtonStyle.Secondary)
-        .setLabel("ㅤ")
+        .setLabel("Boşㅤ")
         .setDisabled(true)
         .setCustomId("süsbutton3"),
         new Discord.ButtonBuilder()
         
-        .setLabel(" ")
+        .setLabel("Boş")
         .setStyle(Discord.ButtonStyle.Secondary)
         .setCustomId(".clearMessageButton_"+interaction.user.id)
       )
@@ -1816,7 +1816,7 @@ if(interaction.customId === 'giriscikis'){
             new Discord.ButtonBuilder()
               .setCustomId(`ticketDelete_everyone`)
               .setLabel('Destek silinsin.')
-              //.setEmoji("🗑️")
+              .setEmoji("🗑️")
               .setStyle(Discord.ButtonStyle.Secondary),
           );
           const ticketClose = new Discord.EmbedBuilder()
