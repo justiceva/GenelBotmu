@@ -8,4 +8,4 @@
 
 # Altyapı Tanıtım Videosu
 - [youtube.com/@WraithsDev](https://youtube.com/@WraithsDev)
-- Altyapı Sahip: discord.gg/altyapilar
+- Altyapı Asıl Sahibi: discord.gg/altyapilar

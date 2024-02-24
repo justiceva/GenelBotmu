@@ -1,12 +1,12 @@
 {
-  "name": "silex",
+  "name": "Wraiths",
   "version": "9.9.9",
-  "description": "Silex Bot Altyapı",
+  "description": "Wraiths",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "araschain",
+  "author": "Wraiths",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
