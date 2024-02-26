@@ -74,5 +74,5 @@ client.login(config.token).then(() => {
 	console.log(`[-] Discord API'ye istek gönderiliyor.`);
 	eval("console.clear()")
 }).catch(() => {
-	console.log(`[x] Discord API'ye istek gönderimi başarısız.`);
+	console.log(`[x] Discord API'ye istek gönderimi başarısız(token girmeyi unutmuşsun).`);
 });
