@@ -12,7 +12,7 @@ module.exports = {
     const embed = new EmbedBuilder()
     .setAuthor({ name: "Yardım Menüsü", iconURL: client.user.displayAvatarURL({ dynamic: true })})
     .setTitle("・Hangi komutlarım hakkında bilgi almak istiyorsan o butona bas!")
-    .setDescription("\n\n**Linkler**\n> ・**Botun davet linki: [Tıkla](https://discord.com/api/oauth2/authorize?client_id=1038372156578480199&permissions=8&scope=bot%20applications.commands)**\n> ・**Botun destek sunucusu: [Tıkla](https://discord.gg/SY7aMsVpUJ)**\n> ・**Botun gizlilik politikası: [Tıkla](https://github.com/araschain/Silex-Bot-Privacy-Policy)**")
+    .setDescription("\n\n**Linkler**\n> ・**Botun davet linki: [Tıkla](https://discord.com/oauth2/authorize?client_id=1217069222874710076&permissions=0&scope=bot+applications.commands)**\n> ・**Botun destek sunucusu: [Tıkla](https://discord.gg/CGz3bxfMJy)**\n>")
     .setColor('Blue')
     const row1 = new Discord.ActionRowBuilder()
 
