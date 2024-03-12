@@ -7,5 +7,5 @@
 - Sorun yaşadıysanız aşağıdaki Tanıtım videosunu izliyebilirsiniz.
 
 # Altyapı Tanıtım Videosu
-- [youtube.com/@WraithsDev](https://youtube.com/@WraithsDev)
+- [www.youtube.com/@justiceva898](www.youtube.com/@justiceva898)
 - Altyapı Asıl Sahibi: discord.gg/altyapilar
