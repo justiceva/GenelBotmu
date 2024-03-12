@@ -1,12 +1,12 @@
 {
-  "name": "Wraiths",
+  "name": "Justiceva",
   "version": "9.9.9",
-  "description": "Wraiths",
+  "description": "Justiceva",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Wraiths",
+  "author": "Justiceva",
   "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^1.1.0",
